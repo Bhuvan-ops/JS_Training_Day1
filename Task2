@@ -1,3 +1,4 @@
+//HTML File
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,5 +12,5 @@
 
 
 
-
+//JS File
 alert("Hello Robosoftians, This is Bhuvan K");

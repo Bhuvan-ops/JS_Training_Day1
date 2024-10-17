@@ -1,0 +1,3 @@
+console.log(a)
+var a = 10 // Hoisting is applicable only when var is used; not when let/const is used 
+console.log(a) // Declaration hoisted to the top but initialization is not 

@@ -1,0 +1,8 @@
+let grp = ['Chethan','Shraddha','Aadhya','Anagha','Shreya']
+console.log("Friends' Name :", grp)
+let myDet = {
+    name: 'Bhuvan',
+    age: 22,
+    sex: 'Male'
+}
+console.log("My details :", myDet)

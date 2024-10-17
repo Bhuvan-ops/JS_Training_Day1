@@ -1,0 +1,4 @@
+const Name = "Bhuvan K";
+const Age = 22;
+console.log(Name);
+console.log(Age);

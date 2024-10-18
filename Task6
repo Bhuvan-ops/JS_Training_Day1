@@ -1,6 +1,6 @@
 let Name = "Bhuvan";
 let Age = 22;
 let isMale = true;
-console.log("String:", Name);
-console.log("Number:", Age);
-console.log("Boolean:", isMale);
+console.log(Name, typeof Name);
+console.log(Age, typeof Age);
+console.log(isMale, typeof isMale);
